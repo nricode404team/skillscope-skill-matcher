@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+httpx
+pdfplumber
+python-docx
+beautifulsoup4
+scikit-learn
+numpy
+python-multipart
+aiofiles
+Pillow
+huggingface_hub

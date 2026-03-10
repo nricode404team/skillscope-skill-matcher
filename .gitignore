@@ -1,0 +1,11 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+# .env # Removed by Orchids to allow .env files
+.venv/
+venv/
+# backend/.env # Removed by Orchids to allow .env files
+*.egg-info/
+.DS_Store
